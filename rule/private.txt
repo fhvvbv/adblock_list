@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/xndeye/adblock_list/v2
 ! Description: 自用补充规则, 完全主观, 不定期更新.
 #-------------白名单---------------
+@@||mp.weixin.qq.com^
 #个推
 @@||sdk.open.talk.gepush.com^
 #公共CDN
