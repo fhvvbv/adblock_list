@@ -18,7 +18,7 @@ application:
         type: easylist
 
       - name: dns-blocklists
-        path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.mini.txt
+        path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
         type: easylist
 
       - name: 中文补充
