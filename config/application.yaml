@@ -21,6 +21,10 @@ application:
         path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.mini.txt
         type: easylist
 
+      - name: 中文补充
+        path: https://raw.githubusercontent.com/fhvvbv/adblockfilters/refs/heads/main/rules/adblockdnslite.txt
+        type: easylist
+
     local:
       - name: 'xndeye private adblock list'
         path: 'rule/private.txt'
