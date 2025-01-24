@@ -10,7 +10,7 @@ application:
   rule:
     remote:
       - name: AdGuard 基础过滤器
-        path: https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
+        path: https://raw.githubusercontent.com/fhvvbv/adblockfilters/refs/heads/main/rules/adblockdns.txt
         type: easylist
 
       - name: AWAvenue-Adblock-Rule
