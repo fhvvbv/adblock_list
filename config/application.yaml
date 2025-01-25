@@ -11,8 +11,12 @@ application:
     remote:
 
       - name: AWAvenue-Adblock-Rule
-        path: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
-        type: easylist
+        path: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/AdGuard/AdvertisingLite/AdvertisingLite.txt
+        type: clash
+
+      - name: anti-ad
+        path: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/anti-ad-clash.yaml
+        type: clash
 
       - name: dns-blocklists
         path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt
