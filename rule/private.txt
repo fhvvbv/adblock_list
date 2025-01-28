@@ -30,3 +30,6 @@
 #未知来源 广告/日志
 ||toblog.ctobsnssdk.com^
 ||xc.maoxiongtv.com^$important
+
+||update.9mod.com^
+||update.liteapks.com^
