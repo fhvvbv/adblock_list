@@ -10,16 +10,8 @@ application:
   rule:
     remote:
 
-      - name: AWAvenue-Adblock-Rule
-        path: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/AdGuard/AdvertisingLite/AdvertisingLite.txt
-        type: clash
-
-      - name: dns-blocklists
-        path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt
-        type: easylist
-
-      - name: 拦截所有中文广告
-        path: https://raw.githubusercontent.com/fhvvbv/adblockfilters/refs/heads/main/rules/adblockdnslite.txt
+      - name: 自用
+        path: https://raw.githubusercontent.com/fhvvbv/adblockfilters/refs/heads/main/rules/adblockdns.txt.txt
         type: easylist
 
     local:
