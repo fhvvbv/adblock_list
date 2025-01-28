@@ -11,7 +11,7 @@ application:
     remote:
 
       - name: 自用
-        path: https://raw.githubusercontent.com/fhvvbv/adblockfilters/refs/heads/main/rules/adblockdns.txt.txt
+        path: https://raw.githubusercontent.com/fhvvbv/adblockfilters/refs/heads/main/rules/adblockdns.txt
         type: easylist
 
     local:
