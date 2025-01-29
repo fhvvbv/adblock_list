@@ -19,11 +19,6 @@
 #斗鱼cdn日志
 ||p2plog.douyucdn.cn^
 ||p2perrorlog.douyucdn.cn^
-#微软遥测
-||browser.events.data.microsoft.com^
-||mobile.events.data.microsoft.com^$important
-||solitaireevents.microsoftcasualgames.com^$important
-||adsdkprod.azureedge.net^$important
 #小米跟踪器
 ||tracker.xiaomixiaoai.com^$important
 #-----------------待定------------------
