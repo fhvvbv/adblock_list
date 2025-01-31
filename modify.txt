@@ -1,0 +1,26 @@
+! Title: xndeye adblock list easylist
+! Last Modified: 2025-02-01 00:10:49
+! Homepage: https://github.com/xndeye/adblock_list
+||183.36.108.190:80^
+||_2krota.ru^
+||_doublepunch.ru^
+||_haxa.ru^
+||_kipfilms.ru^
+||_multiky.ru^
+||_narodclub.net^
+||_saytturtsii.ru^
+||_softbaron.ru^
+||_vodkov.net^
+||-infras.byteimg.com^
+||-insurance.byteimg.com^
+||-infras.bytetos.com^
+||fb_servpub-a.akamaihd.net^
+||help_plans-subscriptions-mobile_orders-bills-674f0eb659808.greengoods73.shop^
+||piano_log.kingsoft.jp^
+||-flv.meituan.net^
+||-hls.meituan.net^
+||-rtmp.meituan.net^
+||_camelot.multilocal.ru^
+||-tos.pstatp.com^
+||09_19.supfree.net^
+||_camelot.userlan.ru^
